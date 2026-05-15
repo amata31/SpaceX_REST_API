@@ -1,15 +1,17 @@
 # SpaceX_REST_API
-IBM Applied Data Science Capstone project to predict if Space X will atempt to lauch a rocket or not.
+IBM Applied Data Science Capstone project analyzing SpaceX launch data to predict first-stage landing success.
 
-Repository instructions:
-* Data Collection (Web Scraping & API)
-jupyter-labs-webscraping.ipynb
-Notebook demonstrating how to collect SpaceX launch data using web scraping techniques and prepare it for further analysis.
+## Repository structure
 
-jupyter-labs-spacex-data-collection-api.ipynb
-Notebook focused on retrieving SpaceX launch data via APIs, structuring it into a usable format for analysis.
+### Data Collection (Web Scraping & API)
 
-* Data Wrangling
-labs-jupyter-spacex-data-wrangling.ipynb
-Notebook dedicated to data cleaning and preprocessing. Includes handling missing values, transforming columns, and creating new features such as landing success classification based on orbit and mission parameters.
+- **jupyter-labs-webscraping.ipynb**  
+  Collects SpaceX launch data using web scraping and prepares it for analysis.
 
+- **jupyter-labs-spacex-data-collection-api.ipynb**  
+  Retrieves SpaceX launch data via API and structures it into a usable dataset.
+
+### Data Wrangling
+
+- **labs-jupyter-spacex-data-wrangling.ipynb**  
+  Cleans and preprocesses the dataset, including handling missing values, transforming columns, and creating features such as landing success classification based on orbit and mission parameters.

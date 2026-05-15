@@ -23,6 +23,7 @@ IBM Applied Data Science Capstone project analyzing SpaceX launch data to predic
 
 ### Exploratory Data Analysis (EDA) & Visualization
 Notebooks for exploring the dataset, identifying patterns, and visualizing relationships between variables affecting landing outcomes.
+- **edadataviz.ipynb**
 
 
 ### Machine Learning

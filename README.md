@@ -17,8 +17,8 @@ IBM Applied Data Science Capstone project analyzing SpaceX launch data to predic
   Cleans and preprocesses the dataset, including handling missing values, transforming columns, and creating features such as landing success classification based on orbit and mission parameters.
 
 ### SQL Analysis
-Notebook applying SQL queries for data exploration and analysis, including filtering, aggregation, grouping, and answering key questions about SpaceX launch outcomes.
 -**jupyter-labs-eda-sql-coursera_sqllite.ipynb**
+  Notebook applying SQL queries for data exploration and analysis, including filtering, aggregation, grouping, and answering key questions about SpaceX launch outcomes.
   
 
 ### Exploratory Data Analysis (EDA) & Visualization

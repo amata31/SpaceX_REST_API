@@ -24,4 +24,5 @@ IBM Applied Data Science Capstone project analyzing SpaceX launch data to predic
 Notebook for exploring the dataset, identifying patterns, perform feature engineering and visualizing relationships between variables affecting landing outcomes.
 
 ### Machine Learning
-Notebooks for training and evaluating models to predict landing success based on launch and payload features.
+- **SpaceX_Machine Learning Prediction_Part_5.ipynb**
+Notebooks for training and evaluating models to predict landing success based on launch and payload features. Logistic regression, KNN, decission threes, SMV.

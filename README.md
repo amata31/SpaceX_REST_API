@@ -25,4 +25,4 @@ Notebook for exploring the dataset, identifying patterns, perform feature engine
 
 ### Machine Learning
 - **SpaceX_Machine Learning Prediction_Part_5.ipynb**
-Notebooks for training and evaluating models to predict landing success based on launch and payload features. Logistic regression, KNN, decission threes, SMV.
+Notebooks for training and evaluating models to predict landing success based on launch and payload features. Implemented models: logistic regression, KNN, decission threes, SMV.
